@@ -18,3 +18,18 @@ h1,h2,h3 {
 body {
     margin: 0;
 }
+
+/**************************************************************/
+/* Specific Stylings */
+
+.name {
+    background-color: aquamarine;
+    padding: 50px 16px;
+    text-align: center;
+}
+
+.other {
+    max-width: 800px; 
+    margin: auto;
+    padding: 50px;
+}
